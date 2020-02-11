@@ -1,0 +1,22 @@
+.morning{
+    background: url("img/morning.png") no-repeat center center fixed; 
+}
+
+.afternoon{
+    background: url("img/afternoon.png") no-repeat center center fixed; 
+}
+
+.evening{
+    background: url("img/evening.png") no-repeat center center fixed; 
+}
+
+.night{
+    background: url("img/night.png") no-repeat center center fixed; 
+}
+.center{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
